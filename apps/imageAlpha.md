@@ -1,5 +1,6 @@
 # [ImageAlpha](http://pngmini.com/)
 ---
+`免费|付费`
 
 [pngquant](http://pngquant.com/) 是一个用来压缩PNG图像的命令行脚本和C库。经过转换能显著缩小图片体积 (通常压缩幅度高达 70%)并且能保留完整的alpha透明度，转换生成的图片可以兼容所有浏览器。有以下特色：
 

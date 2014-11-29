@@ -1,5 +1,7 @@
 # [Alferd](http://www.alfredapp.com/)
 
+`免费|付费`
+
 先来一睹芳容：
 
 ![Alferd芳容][1]
@@ -22,7 +24,11 @@
 
 1. 打开应用和文件
 
-	用`Option + Space`呼出Alfred后，输入应用程序(或文件)的部分名字，就可以定位到应用(或文件)了。
+	用Option + Space呼出Alfred后，输入应用程序的部分名字，就可以定位到应用了。
+
+	当然也可以搜索文件，有4个关键字open、find、in、tags来对文件进行搜索。in、open、tags分别根据文件内容、文件名、文件标签来搜索文件然后直接打开，find根据文件名定位文件的位置，如下图：
+	
+	!["in"搜索文件内容][3]
 
 2. 快速搜索Web
 
@@ -58,3 +64,4 @@ Github上有workflows的托管项目，可以在这里找到。这个项目已�
 
 [1]: http://xuelangzf-github.qiniudn.com/2014-11-11_Alferd.png
 [2]: http://xuelangzf-github.qiniudn.com/apps_alferd_web.png
+[3]: http://xuelangzf-github.qiniudn.com/apps_alferd_in.png

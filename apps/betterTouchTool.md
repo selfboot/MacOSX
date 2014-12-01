@@ -110,8 +110,8 @@ BTT还提供了强大的导入导出功能，方便我们在不同机器使用�
 [Mac 触控板增强神器：BetterTouchTool 上手指南](http://sspai.com/27094)  
 [BetterTouchTool的偏好设置](http://www.zhu.cm/mac-bettertouchtool-tutorial-preferences.html)  
 
-[1]: http://xuelangzf-github.qiniudn.com/betterTouchControl_view.png
-[2]: http://xuelangzf-github.qiniudn.com/betterTouchControl_etc.png
-[3]: http://xuelangzf-github.qiniudn.com/betterTouchControl_global.png
-[4]: http://xuelangzf-github.qiniudn.com/betterTouchControl_show.gif
-[5]: http://xuelangzf-github.qiniudn.com/betterTouchControl_snap.png
+[1]: http://xuelangzf-github.qiniudn.com/apps_betterTouchControl_view.png
+[2]: http://xuelangzf-github.qiniudn.com/apps_betterTouchControl_etc.png
+[3]: http://xuelangzf-github.qiniudn.com/apps_betterTouchControl_global.png
+[4]: http://xuelangzf-github.qiniudn.com/apps_betterTouchControl_show.gif
+[5]: http://xuelangzf-github.qiniudn.com/apps_betterTouchControl_snap.png

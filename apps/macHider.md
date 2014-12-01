@@ -1,5 +1,5 @@
 # [MacHider](http://macpaw.com/support/hider/knowledgebase/machider-support)
----
+
 `付费`
 
 是不是有一些文件、图片不想被别人看到？作为程序员，你当然可以通过设置权限阻止别人来看。不过我们有更简单的方法，那就是用MacHider来隐藏文件了，如下：

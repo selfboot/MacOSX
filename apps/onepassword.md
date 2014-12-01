@@ -1,6 +1,6 @@
 # [1Password](https://agilebits.com/onepassword)
----
-**付费**
+
+`付费`
 
 摘要：
 
@@ -79,8 +79,8 @@
 * 假如 iCloud 或者 Dropbox 有什么意外，这些用户数据也都是AES加密的，只能被主密码(Master Password)开启。
 
 
-参考
-[CSDN 前 100 常用密码](http://www.guokr.com/post/81254/)
+参考  
+[CSDN 前 100 常用密码](http://www.guokr.com/post/81254/)  
 [1Password真的安全吗？](http://iphone.91.com/tutorial/syjc/140422/21679992_all.html)
 
 

@@ -6,6 +6,7 @@ OS X上有着许多不错的应用，使用起来简直是爽到爆。这里简�
 * [1Password](https://github.com/xuelangZF/MacOSX/blob/gh-pages/apps/onepassword.md)：密码管理
 * [印象笔记](https://github.com/xuelangZF/MacOSX/blob/gh-pages/apps/evernote.md)：云笔记软件
 * [马克飞象](https://github.com/xuelangZF/MacOSX/blob/gh-pages/apps/evernote.md)：印象笔记第三方插件
+* [BetterTouchTool](https://github.com/xuelangZF/MacOSX/blob/gh-pages/apps/betterTouchTool.md)：自定义触摸板
 * [Reeder2](https://github.com/xuelangZF/MacOSX/blob/gh-pages/apps/reeder2.md)：文章订阅
 * [iTerm2](https://github.com/xuelangZF/MacOSX/blob/gh-pages/apps/iterm2.md)：命令行终端
 * [LICEcap](https://github.com/xuelangZF/MacOSX/blob/gh-pages/apps/licecap.md)：录制GIF动态图

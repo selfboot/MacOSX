@@ -1,6 +1,6 @@
 # [Reeder2](https://itunes.apple.com/us/app/reeder-2/id880001334?ls=1&mt=12)  
----
 
+`付费`
 
 一款订阅软件，可以不翻墙使用，收费$9.99，如下：
 

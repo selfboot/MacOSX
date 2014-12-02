@@ -28,4 +28,9 @@
 * 如果官方有非沙盒版，建议不要选择Mac App Store的阉割版，购入原版；
 
 
-
+---
+<ul style="list-style:none; width:100px; margin:0 auto;">
+<li style="float:left"><a href="http://zhaofei.tk/MacOSX"><img src="../resource/home.png" ></a></li>
+<li style="float:left"><a href="https://github.com/xuelangZF/MacOSX/blob/gh-pages/os-x/os-x_summary.md"><img src="../resource/os-x.png" ></a></li>
+<li style="float:left"><a href="https://github.com/xuelangZF/MacOSX/blob/gh-pages/apps/apps_summary.md"><img src="../resource/apps.png" ></a></li>
+</ul> </div>

@@ -24,3 +24,12 @@ OS X上有着许多不错的应用，使用起来简直是爽到爆。这里简�
 * [BetterZip2](http://macitbetter.com/buy/)：解压缩
 * [Parallels Desktop](http://www.parallels.com/products/desktop/)：虚拟机
 * [CleanMyMac 2](http://macpaw.com/cleanmymac)：垃圾清理
+
+
+
+---
+
+<ul style="list-style:none; width:100px; margin:0 auto;">
+<li style="float:left"><a href="http://zhaofei.tk/MacOSX"><img src="../resource/home.png" ></a></li>
+<li style="float:left"><a href="https://github.com/xuelangZF/MacOSX/blob/gh-pages/os-x/os-x_summary.md"><img src="../resource/os-x.png" ></a></li>
+</ul> </div>

@@ -72,3 +72,10 @@ iTerm2的配置文件在
 
 [1]: http://xuelangzf-github.qiniudn.com/2014-11-11_iTerm2.png
 [2]: http://xuelangzf-github.qiniudn.com/apps_iterm2_bash_etc.png
+
+---
+<ul style="list-style:none; width:100px; margin:0 auto;">
+<li style="float:left"><a href="http://zhaofei.tk/MacOSX"><img src="../resource/home.png" ></a></li>
+<li style="float:left"><a href="https://github.com/xuelangZF/MacOSX/blob/gh-pages/os-x/os-x_summary.md"><img src="../resource/os-x.png" ></a></li>
+<li style="float:left"><a href="https://github.com/xuelangZF/MacOSX/blob/gh-pages/apps/apps_summary.md"><img src="../resource/apps.png" ></a></li>
+</ul> </div>

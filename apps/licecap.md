@@ -16,3 +16,10 @@ LICEcap 是一款免费的屏幕录制工具，支持导出 GIF 动画图片格�
 
 [1]: http://xuelangzf-github.qiniudn.com/2014-11-11_LICEcap.gif
 [2]: http://xuelangzf-github.qiniudn.com/apps_LICEcap_view.png
+
+---
+<ul style="list-style:none; width:100px; margin:0 auto;">
+<li style="float:left"><a href="http://zhaofei.tk/MacOSX"><img src="../resource/home.png" ></a></li>
+<li style="float:left"><a href="https://github.com/xuelangZF/MacOSX/blob/gh-pages/os-x/os-x_summary.md"><img src="../resource/os-x.png" ></a></li>
+<li style="float:left"><a href="https://github.com/xuelangZF/MacOSX/blob/gh-pages/apps/apps_summary.md"><img src="../resource/apps.png" ></a></li>
+</ul> </div>

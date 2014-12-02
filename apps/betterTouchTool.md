@@ -67,7 +67,7 @@
 此外，还可以将印象笔记中的缩进方式改为Mou的快捷键，如下：
 
 Mou   	|  印象笔记  | 描述
----    	|  --- 		|
+---    	|  --- 		| ---
 ⇧⌃L   	|  ⌘k			| 插入链接
 ⌘]    	|  ⌘⇧] 		| 增加缩进级别
 ⌘[    	|  ⌘⇧[ 		| 降低缩进级别
@@ -115,3 +115,10 @@ BTT还提供了强大的导入导出功能，方便我们在不同机器使用�
 [3]: http://xuelangzf-github.qiniudn.com/apps_betterTouchControl_global.png
 [4]: http://xuelangzf-github.qiniudn.com/apps_betterTouchControl_show.gif
 [5]: http://xuelangzf-github.qiniudn.com/apps_betterTouchControl_snap.png
+
+---
+<ul style="list-style:none; width:100px; margin:0 auto;">
+<li style="float:left"><a href="http://zhaofei.tk/MacOSX"><img src="../resource/home.png" ></a></li>
+<li style="float:left"><a href="https://github.com/xuelangZF/MacOSX/blob/gh-pages/os-x/os-x_summary.md"><img src="../resource/os-x.png" ></a></li>
+<li style="float:left"><a href="https://github.com/xuelangZF/MacOSX/blob/gh-pages/apps/apps_summary.md"><img src="../resource/apps.png" ></a></li>
+</ul> </div>

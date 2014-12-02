@@ -41,3 +41,10 @@
 [如何在iPhone中更改Apple ID的所属国家](http://leonax.net/p/4641/how-to-change-the-country-of-an-apple-id-on-iphone/)  
 
 [1]: http://xuelangzf-github.qiniudn.com/os_x_apple_id.png
+
+---
+<ul style="list-style:none; width:100px; margin:0 auto;">
+<li style="float:left"><a href="http://zhaofei.tk/MacOSX"><img src="../resource/home.png" ></a></li>
+<li style="float:left"><a href="https://github.com/xuelangZF/MacOSX/blob/gh-pages/os-x/os-x_summary.md"><img src="../resource/os-x.png" ></a></li>
+<li style="float:left"><a href="https://github.com/xuelangZF/MacOSX/blob/gh-pages/apps/apps_summary.md"><img src="../resource/apps.png" ></a></li>
+</ul> </div>

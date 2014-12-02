@@ -29,5 +29,11 @@ Mac App Store是Mac OS X内置的用于购买电脑程序的商店，在上面�
 
 Mac App Store 与为 iOS 提供的 App Store 如出一辙，为 Mac 查找和下载 app 也易如反掌。你可以按游戏、生产力、音乐等类别来浏览 Mac 的 app，或快速搜索特定内容，也可以阅读开发者说明和用户评论，或翻阅屏幕截图。当你找到喜欢的 app 时，点击即可购买。Mac App Store 里的 app 包罗万象，能够满足每个人的需要。
 
----
 所有这些商店，只需要一个Apple ID即可，不过使用美国区的Apple ID登录看到的和中国区的内容不一样，美国区资源更加丰富，优惠也会更多一些。
+
+---
+<ul style="list-style:none; width:100px; margin:0 auto;">
+<li style="float:left"><a href="http://zhaofei.tk/MacOSX"><img src="../resource/home.png" ></a></li>
+<li style="float:left"><a href="https://github.com/xuelangZF/MacOSX/blob/gh-pages/os-x/os-x_summary.md"><img src="../resource/os-x.png" ></a></li>
+<li style="float:left"><a href="https://github.com/xuelangZF/MacOSX/blob/gh-pages/apps/apps_summary.md"><img src="../resource/apps.png" ></a></li>
+</ul> </div>

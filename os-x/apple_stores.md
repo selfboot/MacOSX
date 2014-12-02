@@ -32,8 +32,4 @@ Mac App Store 与为 iOS 提供的 App Store 如出一辙，为 Mac 查找和下
 所有这些商店，只需要一个Apple ID即可，不过使用美国区的Apple ID登录看到的和中国区的内容不一样，美国区资源更加丰富，优惠也会更多一些。
 
 ---
-<ul style="list-style:none; width:100px; margin:0 auto;">
-<li style="float:left"><a href="http://zhaofei.tk/MacOSX"><img src="../resource/home.png" ></a></li>
-<li style="float:left"><a href="https://github.com/xuelangZF/MacOSX/blob/gh-pages/os-x/os-x_summary.md"><img src="../resource/os-x.png" ></a></li>
-<li style="float:left"><a href="https://github.com/xuelangZF/MacOSX/blob/gh-pages/apps/apps_summary.md"><img src="../resource/apps.png" ></a></li>
-</ul> </div>
+[![](../resource/os-x.png)](http://github.com/xuelangZF/MacOSX/blob/gh-pages/os-x/os-x_summary.md)

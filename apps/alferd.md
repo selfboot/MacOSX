@@ -61,13 +61,8 @@ Github上有workflows的托管项目，可以在这里找到。这个项目已�
 [有哪些工具或者软件堪称神器？](http://www.zhihu.com/question/20772002)  
 
 ---
-<ul style="list-style:none; width:100px; margin:0 auto;">
-<li style="float:left"><a href="http://zhaofei.tk/MacOSX"><img src="../resource/home.png" ></a></li>
-<li style="float:left"><a href="https://github.com/xuelangZF/MacOSX/blob/gh-pages/os-x/os-x_summary.md"><img src="../resource/os-x.png" ></a></li>
-<li style="float:left"><a href="https://github.com/xuelangZF/MacOSX/blob/gh-pages/apps/apps_summary.md"><img src="../resource/apps.png" ></a></li>
-</ul> </div>
+[![](../resource/apps.png)](http://github.com/xuelangZF/MacOSX/blob/gh-pages/apps/apps_summary.md)
 
 [1]: http://xuelangzf-github.qiniudn.com/2014-11-11_Alferd.png
 [2]: http://xuelangzf-github.qiniudn.com/apps_alferd_web.png
 [3]: http://xuelangzf-github.qiniudn.com/apps_alferd_in.png
-[99]: ../resource/apps.png

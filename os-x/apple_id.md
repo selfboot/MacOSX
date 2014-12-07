@@ -1,5 +1,4 @@
 # Apple ID账号
----
 
 如果注册了[Apple ID](http://store.apple.com/cn/help/your_account)，那么就可以快速方便在 Apple Store 购买软件或者其他资源。App Store是按国家分的，一些区域性很强的应用，比如打车类的应用，可能只在它所针对的国家发布；也有可能，一些应用刚上市的时候，还没做得很完善，于是就先发几个重点国家试试看。而另一方面，一个Apple ID只能属于一个特定的国家。于是就出现了这种情况，某个应用发在了国家A，而你的Apple ID在国家B，于是就看得到用不了了。
 
@@ -7,7 +6,7 @@
 
 **为什么要使用美国区？**
 
-美区的软件比较多，有些是中国商店没有的，比如facebook出品的paper。免费下载收费软件的App推广码或其他iTunes Store/App Store的新项目和优惠措施都是只面向美国区的。此外，美国的Apple账号可以使用iTunes Gift Card，中国账号则不可以。
+美区的软件比较多，有些是中国商店没有的，比如facebook出品的paper。免费下载收费软件的App推广码或其他iTunes Store/App Store的新项目和优惠措施都是只面向美国区的。~~此外，美国的Apple账号可以使用iTunes Gift Card，中国账号则不可以。~~
 
 **苹果怎么判定用户的区域？**
 
@@ -32,9 +31,6 @@
 ## 更改国家或地区
 
 国内的Apple ID可以通过icloud或itunes修改账户信息的方式转区，icloud里通过“管理——查看账户——更改国家或地区”来设置。
-
-
-
 
 参考  
 [美区的苹果账号注册经验分享](http://bbs.feng.com/read-htm-tid-7805022.html)  

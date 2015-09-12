@@ -9,7 +9,7 @@
 
 
 
-[1]: http://xuelangzf-github.qiniudn.com/2014-11-11_reeder2.png
+[1]: http://xuelangzf-github.qiniudn.com/20141111_reeder2.png
 
 ---
 [![](../resource/apps.png)](http://github.com/xuelangZF/MacOSX/blob/gh-pages/apps/apps_summary.md)

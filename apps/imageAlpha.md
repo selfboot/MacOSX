@@ -22,7 +22,7 @@ MAC下图形界面有两个：[ImageAlpha](http://pngmini.com/)，Pngyu。
 
 
 
-[1]: http://xuelangzf-github.qiniudn.com/2014-11-11_ImageAlpha.png
+[1]: http://xuelangzf-github.qiniudn.com/20141111_ImageAlpha.png
 
 ---
 [![](../resource/apps.png)](http://github.com/xuelangZF/MacOSX/blob/gh-pages/apps/apps_summary.md)

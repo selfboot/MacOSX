@@ -14,7 +14,7 @@ LICEcap 是一款免费的屏幕录制工具，支持导出 GIF 动画图片格�
 
 ![LICEcap效果图][1]
 
-[1]: http://xuelangzf-github.qiniudn.com/2014-11-11_LICEcap.gif
+[1]: http://xuelangzf-github.qiniudn.com/20141111_LICEcap.gif
 [2]: http://xuelangzf-github.qiniudn.com/apps_LICEcap_view.png
 
 ---

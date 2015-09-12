@@ -70,7 +70,7 @@ iTerm2的配置文件在
 
 
 
-[1]: http://xuelangzf-github.qiniudn.com/2014-11-11_iTerm2.png
+[1]: http://xuelangzf-github.qiniudn.com/20141111_iTerm2.png
 [2]: http://xuelangzf-github.qiniudn.com/apps_iterm2_bash_etc.png
 
 ---

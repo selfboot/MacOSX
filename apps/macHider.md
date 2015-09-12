@@ -28,7 +28,7 @@
 
 显示文件也很简单，只需要在相应MacHider群组找到自己需要显示的文件，然后点击右侧的`Hide`开关按钮到OFF即可，这样就可以浏览隐私文件了。
 
-[1]:http://xuelangzf-github.qiniudn.com/2014-11-11_MacHider.png
+[1]:http://xuelangzf-github.qiniudn.com/20141111_MacHider.png
 
 ---
 [![](../resource/apps.png)](http://github.com/xuelangZF/MacOSX/blob/gh-pages/apps/apps_summary.md)

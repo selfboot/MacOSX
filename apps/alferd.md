@@ -89,7 +89,7 @@ Alferd[官网论坛](http://www.alfredforum.com/forum/3-share-your-workflows)提
 ---
 [![](../resource/apps.png)](http://github.com/xuelangZF/MacOSX/blob/gh-pages/apps/apps_summary.md)
 
-[1]: http://xuelangzf-github.qiniudn.com/2014-11-11_Alferd.png
+[1]: http://xuelangzf-github.qiniudn.com/20141111_Alferd.png
 [2]: http://xuelangzf-github.qiniudn.com/apps_alferd_web.png
 [3]: http://xuelangzf-github.qiniudn.com/apps_alferd_in.png
 [4]: http://xuelangzf-github.qiniudn.com/apps_alferd_clibboard.png

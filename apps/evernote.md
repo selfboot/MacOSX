@@ -31,8 +31,8 @@
 
 支持自定义样式表！
 
-[1]: http://xuelangzf-github.qiniudn.com/2014-11-11_yinxiang.png
-[2]: http://xuelangzf-github.qiniudn.com/2014-11-11_marxico.png
+[1]: http://xuelangzf-github.qiniudn.com/20141111_yinxiang.png
+[2]: http://xuelangzf-github.qiniudn.com/20141111_marxico.png
 
 ---
 [![](../resource/apps.png)](http://github.com/xuelangZF/MacOSX/blob/gh-pages/apps/apps_summary.md)

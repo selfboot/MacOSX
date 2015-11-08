@@ -28,4 +28,6 @@ OS X上有着许多不错的应用，使用起来简直是爽到爆。这里简�
 
 
 ---
-[![](../resource/home.png)](http://zhaofei.tk/MacOSX)
+[![](../resource/home.png)](http://selfboot.cn/MacOSX)
+
+
